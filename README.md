@@ -68,5 +68,5 @@ Desarrollo y Pruebas:
 ### Clonar el Repositorio:
 
 ```bash
-git clone https://github.com/Panchaaowo/Proyecto-Perfulandia
+https://github.com/Panchaaowo/Proyecto-Perfulandia.git
 cd Proyecto-Perfulandia
