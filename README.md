@@ -23,22 +23,22 @@ Actualización del estado del envío y control de destino.
 ## Tecnologías Utilizadas
 
 Backend:
-Java 17: Lenguaje de programación principal.
-Spring Boot 3.4.5: Framework para desarrollo de aplicaciones empresariales.
-Spring Web: Para la exposición de servicios RESTful.
-Spring Data JPA: Para la persistencia de datos y consultas a la base de datos.
-Lombok: Para reducir el código repetitivo (getters, setters, constructores).
-Maven: Sistema de construcción y gestión de dependencias.
+-Java 17: Lenguaje de programación principal.
+-Spring Boot 3.4.5: Framework para desarrollo de aplicaciones empresariales.
+-Spring Web: Para la exposición de servicios RESTful.
+-Spring Data JPA: Para la persistencia de datos y consultas a la base de datos.
+-Lombok: Para reducir el código repetitivo (getters, setters, constructores).
+-Maven: Sistema de construcción y gestión de dependencias.
 
 Base de Datos:
-MySQL 8+: Sistema de gestión de base de datos relacional.
+-MySQL 8+: Sistema de gestión de base de datos relacional.
 
 Desarrollo y Pruebas:
-JUnit 5 y Mockito: Para pruebas unitarias con alta cobertura.
-Datafaker: Generación de datos simulados para testing.
-JaCoCo: Medición de cobertura de código con umbral mínimo del 80%.
-Swagger / OpenAPI 3: Documentación interactiva de los endpoints.
-Postman: Para pruebas manuales de las APIs REST.
+-JUnit 5 y Mockito: Para pruebas unitarias con alta cobertura.
+-Datafaker: Generación de datos simulados para testing.
+-JaCoCo: Medición de cobertura de código con umbral mínimo del 80%.
+-Swagger / OpenAPI 3: Documentación interactiva de los endpoints.
+-Postman: Para pruebas manuales de las APIs REST.
 
 ## Requisitos Previos
 
